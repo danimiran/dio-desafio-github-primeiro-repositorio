@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="danie"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2021-12-05 01:27:15 "/>
+        <attribute name="created" value="ZGFuaWU7TEFQVE9QLUNFUkZVOFBCOzIwMjEtMTItMDU7IjAxOjAyOjE3ICI7Mjc3Ng=="/>
+        <attribute name="edited" value="ZGFuaWU7TEFQVE9QLUNFUkZVOFBCOzIwMjEtMTItMDU7IjAxOjI3OjE1ICI7MjsyODkw"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="nota1, nota2, nota3, nota4, totalNota, media" type="Real" array="False" size=""/>
+            <input variable="nota1"/>
+            <input variable="nota2"/>
+            <input variable="nota3"/>
+            <input variable="nota4"/>
+            <assign variable="totalNota" expression="nota1+nota2+nota3+nota4"/>
+            <assign variable="media" expression="(totalNota)/4"/>
+            <comment text="Sua media foi:"/>
+            <output expression="media" newline="True"/>
+            <output expression="totalNota" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
