@@ -1,0 +1,38 @@
+Scrum (Framework de gerenciamento de projeto agil)
+
+Processo de Desenvolvimento
+ - Concepção
+ - Análise & Design
+ - Desenvolvimento
+ - Implantação
+
+-------------------------------------------------------
+GESTÃO DE PROJETO
+
+TRADICIONAL (Waterfall) - Cascata: É preciso fazer uma etapa p/ passar p/ a próxima 
+AGIL: É dividido em partes (Inclementação)
+------------------
+
+AGIL X TRADICIONAL
+
+AGIL: Escopo definido ao logo do projeto; entrega por funcionalidade; cliente vê funcionando ao longo do projeto; 
+as mudanças são constantes
+
+TRADICIONAL: Escopo definido no começo do projeto
+
+---------------------------------------------------------
+
+Pilares do scrum:
+	- Transparência;
+	- Adaptação
+	- Inspiração
+----------------------------------------------------------
+MVP: Produto minimo viável (com feedbacks vai evoluindo)
+
+-------------------------------------------------
+Características Scrum
+
+- Obtem feedback constantes;
+- Desenvolvido e entregue em partes menores (2 a 4 semanas);
+- Maior valor p/ o negocio (Priorização do backlog);
+- Usuários envolvidos durante todo o ciclo

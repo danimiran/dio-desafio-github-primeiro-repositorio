@@ -1,3 +1,0 @@
-Link de instalação Git
-
-https://git-scm.com/

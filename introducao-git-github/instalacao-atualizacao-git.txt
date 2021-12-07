@@ -1,0 +1,10 @@
+Link de instalação Git
+
+https://git-scm.com/
+------------------------ 
+
+PARA ATUALIZAR
+
+No terminal:
+
+ > git update-git-for-windows

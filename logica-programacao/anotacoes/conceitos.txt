@@ -1,0 +1,16 @@
+Lógica de Programação
+
+- É preciso saber o que vai utilizar para solucionar o problema;
+- Não ir direto para o código, antes pense na solução
+
+LOGICA: Sequencia de ideias (Tenho um problema e busco uma sequencia de ações p/ solucionar (algoritmo)
+
+ABSTRAÇÃO: Encontrar uma uma maneira mais simples p/ diminuir a solução (penso no essencial)
+
+PSEUDOCODIGO: Como vai escrever o algoritmo
+
+------------------------------------------
+LINK DE JOGO PARA EXERCITAR A LOGICA: https://studio.code.org/s/mc/lessons/1/levels/1
+
+
+

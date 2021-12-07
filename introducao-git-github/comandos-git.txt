@@ -1,0 +1,28 @@
+
+Comandos:
+ - git init (inicia repositorio)
+ - git add (move arquivo)
+ - git commit (cria commit)
+
+--------------------
+
+Configurando autor
+
+ > git config --global user.email "..."
+ > git config --global user.name "..."
+
+------------
+> git add * (adiciona tudo)
+> git commit -m "comentário" (commit)
+> git status (mostra o status do arquivo
+> git config --list (vê todas as configurações do git)
+> git remote add origin caminho_repositorio_git_vazio (inicia o repositorio, dando o apelido de origin)
+> git remote -v (lista de repositorios cadastrados)
+> git push origin master (sobe repositorio p/ o servidor; tem que lançar depois do commit)
+> git pull origin master (puxa as alterações)
+
+
+------------------------------
+Conflito
+
+Quando ocorre algum conflito de arquivo é preciso ajustar manual

@@ -1,0 +1,17 @@
+git bash:
+
+ > ssh-keygen -t ed25519 -C seu_email_git
+ > Digita senha
+ > Entre na pasta que foi salva a chave criptografada (cd ...)
+ > cat nome_arquivo_id (p/ mostrar o conteúdo do arquivo)
+
+GITHUB
+ > copia e cole no git (ssh em configurações do perfil), depois salve
+
+GIT BASH
+ > eval $(ssh agent -s) - coloca ssh p/ rodar em 2º plano
+ > ssh add nome_arquivo_id (passa a chave privada que vai interpretar a publica)
+
+
+
+	

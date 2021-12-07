@@ -1,0 +1,33 @@
+GIT/ GIT HUB
+
+Vantagens:
+ - Controle de versão;
+ - Armazenamento em nuvem;
+ - Trabalho em equipe;
+ - Melhoramento de código;
+ - Reconhecimento
+
+-------
+GIT utiliza linha de comando (cli)
+
+SHA - O git utiliza a encriptação das mudanças (serve p/ identificaçõa)
+
+NO TERMINAL
+ex: > echo "Olá" | openssl sha1 (encriptografa)
+
+ENCRIPTOGRAFANDO ARQUIVO: 
+	> openssl sha1 texto1.txt
+	> gera uma chave
+-------------------------------------------------
+
+blobs: Ele tem tipo; contem metadados dos objetos;
+
+tree: Armazena os blobs; guarda o nome do arquivo; monta toda a estrutura; gera um sha1
+
+commit: Aponta para a arvore; autor; mensagem; ultimo commit; possui encriptação
+
+------------------------------
+
+Chave SSH e tokem
+
+SSH: Estabelece uma conexão segura entre duas máquinas, tendo uma chave publica e uma privada

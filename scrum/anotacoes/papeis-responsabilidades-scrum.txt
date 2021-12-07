@@ -1,0 +1,37 @@
+Product Owner (PO) - Área de negócio (uma pessoa) ele define as funcionalidades do software (proct backlog),
+define a ordem que será entregue e pode cancelar sprints
+
+Scrum master (sm) - Garante que as pessoas estão utilizando o scrum (facilitador)
+
+Time dev - Cria e projeta (multidiciplinar) ...
+
+--------------------------------------------
+
+Conceitos
+
+Time box: Tempo maximo - desenvolvimento da sprint/reunião
+sprint: Tarefa (planejamento)
+
+Reuniação de planejamento: PO - INDICA O QUE ELE PRECISA; DEV - TIRA DUVIDA
+
+Reunião diaria: Perguntar o que fez no dia anterior; o que irá fazer... (to do, doing, done)
+
+Revisão da sprint (review): apresenta o que fizeram para o PO
+
+Retrospectiva da sprint: Transparencia (lições aprendidas)
+
+Release Planning: lançamento de novas versões p/ o fim das sprints
+
+Mearge: acumulo de sprints
+
+Stakeholders: Partes interessadas
+
+---------------------------------------
+
+PRODUCT BACKLOG
+
+- Composto por épico e estórias
+
+--- Épico: Incrementação sem muito detalhamento, ajuda no direcionamento (objetivo macro) - conjunto de estórias
+--- Estória: Detalhamento dos épicos; cada estória (sendo dividido em tarefas)
+

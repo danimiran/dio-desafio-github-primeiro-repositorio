@@ -1,0 +1,29 @@
+LINK: https://rachacuca.com.br/jogos/pinguins-numa-fria/
+
+PSEUDOCODIGO:
+
+    INICIO DO JOGO
+
+ 	1. Pinguins pequeno cachecol vermelho, entra no gelo
+  	2. Mãe pinguim cachecol vermelho, entra no gelo
+	3. Atravessa
+	4. Mãe pinguim cachecol vermelho, desce do gelo
+	5. Atravessa
+	6. Pinguins pequeno cachecol verde, entra no gelo
+	7. Atravessa
+	8. Pinguins pequeno cachecol vermelho, desce do gelo
+	9. Atravessa
+	10. Mãe pinguim cachecol verde, entra no gelo
+	11. Atravessa
+	12. Mãe pinguim cachecol verde, desce do gelo
+	13. Atravessa
+	14. Pinguins pequeno cachecol azul, entra no gelo
+	15. Atravessa
+	16. Pinguins pequeno cachecol verde, desce do gelo
+	17. Atravessa
+	18. Mãe pinguim cachecol azul, entra no gelo
+	19. Atravessa
+	20. Mãe pinguim cachecol azul, desce do gelo
+	21. Pinguins pequeno cachecol azul, desce do gelo
+  	
+    FIM DO JOGO
