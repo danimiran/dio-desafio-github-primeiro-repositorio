@@ -1,0 +1,36 @@
+HTML - Forma toda a estrutura das páginas, ele é composto de suas tags, atributos e probliedades
+
+sua estrura:
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title></title>
+	</head>
+
+	<body>
+
+	</body>
+</html>
+
+-----------------------------------------------------
+<!DOCTYPE html> - indica que estamos utilizando o html na ultima versão para o navegador
+
+<html> - inicio do codigo html
+<head> - Cabeçario
+<title> - titulo da página
+<body> - inicio do corpo, conteúdo
+
+----------------------------
+LINK
+
+target="_blank" - abre em outa guia
+
+-------------------------------------------------------------------------------
+Tags de identificação das sessões da página
+
+HEARDER - CABEÇARIO
+aside- defini otra parte do conteúdo, ligado ao article
+article - conteudo
+footer - rodapé
+section - agrupamento de elementos da página
