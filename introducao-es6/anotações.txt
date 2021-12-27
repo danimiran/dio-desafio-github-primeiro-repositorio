@@ -1,0 +1,25 @@
+Passou por varios nomes até chegar no nome Java Script
+
+js - criada por Brendan Eich (1995 lançamento)
+
+ECMAsCRIPT - ELE É UMA ESPECIFICAÇÃO DA LINGUAGEM P/ IMPLEMENTAÇÃO DE OUTRA LINGUAGENS
+
+TC39 - RESPONSAVEL PELA EVOLUÇÃO DO JS (DESENVOLVE E MANTEM PADROES) - NO GIT DELES POSSUI PROPOSTAS PARA SEREM VOTADAS
+ - FLUXO PROPOSTAS - STAGE: ENVIAR FORMULÁRIO PARA MELHORIA DO ECMASCRIPT
+ - STAGE 1: POPOSAL -  DESCRIÇÃO E EXEMPLOS DA PROPOSTA
+ -STAGE 2: DRAFT - PRIMEIRA VERSÃO DA PROPOSTA; TENDO UMA DESCRIÇÃO COMPLETA
+ - STAGE 3: CANDIDATE - PRECISA TER ESPECIFICAÇÃO; PODE TER ALTERAÇÕES
+ - STAGE 4: FINISHED - TEM QUE PASSAR PELA SWITH DE TESTE
+
+----> BABEL - TANFORMA DETERMINADA VERSÃO EM UMA VERSÃO ANTIGA
+
+LINGUAGEM INTERPRETADA - O CODIGO É EXECUTADO DE CIMA PARA BAIXO; NÃO PRECISA TANSFORMAR EM ALGO DIFERENTE 
+LINGUAGEM DE TIPAGEM É FRACA E DINAMICA - NÃO TEM UMA VERIFICAÇÃO DO TIPO 
+
+tipagem dinamica - NÃO PRECISA ESPECIFICAR O TIPO DA VARIAVEL NA SUA CRIAÇÃO (o compilador que identifica)
+
+Typescript (adiciona tipos ao JS e funcionalidades), ele é um superset (ele virá js para ser interpretado) - tem site (https://www.typescriptlang.org/play)
+
+Flow - parece com o typescript (versão mais simplificada)
+
+closure - capacidade de lembrar de onde foi criada
